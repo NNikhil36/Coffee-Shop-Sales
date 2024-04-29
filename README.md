@@ -12,6 +12,7 @@ Welcome to the Coffee Shop Sales Data Analytics project! Dive into the world of 
 7. Dedication to Actionable Outcomes: Demonstrate unwavering dedication to driving actionable outcomes and tangible results.
 8. Business Growth Potential: Navigate through the rich landscape of coffee shop sales analytics to unlock potential avenues for business growth and success.
 
+![Screenshot 2024-04-25 225846](https://github.com/nikhiltomar36/Coffee-Shop-Sales/assets/143112524/5900c23b-1222-4e5b-927c-44a713a4b3b5)
 
 
 
